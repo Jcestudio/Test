@@ -1,5 +1,9 @@
 <?php 
 	
-	/*
-	 * Index page
-	 */
+/*
+ * Index page
+ */
+
+echo "Hello World";
+
+?>
